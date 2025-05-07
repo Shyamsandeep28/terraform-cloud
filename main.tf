@@ -3,5 +3,5 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "my_bucket" {
-  bucket = "sandeep-my-tfc-bucket-demo"
+  bucket = "sandeep-my-tfc-bucket-demo-1"
 }
